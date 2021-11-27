@@ -1,0 +1,24 @@
+{
+  "name": "str_ravster_sti",
+  "version": "0.9.9",
+  "description": "no desc",
+  "main": "js_str_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satsite13/str_ravster.git"
+  },
+  "keywords": [
+    "str",
+    "are",
+    "strings"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satsite13/str_ravster/issues"
+  },
+  "homepage": "https://github.com/satsite13/str_ravster#readme"
+}
